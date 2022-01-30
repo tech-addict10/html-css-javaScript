@@ -21,6 +21,12 @@
 				cellspacing="5">
 			<tr>
 				<td><button>Python Course</button></td>
+			<h2>Why learn coding?</h2>
+			<ol>
+				<li>Good skill to have</li>
+				<li>Good career</li>
+				<li>High paying</li>
+			</ol>
 
 				<td><button>NodeJS Course</button></td>
 
