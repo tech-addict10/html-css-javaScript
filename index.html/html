@@ -5,6 +5,33 @@
 	</head>
 	<body>
 		<h1>This is my first website</h1>
+		<ul>
+			<li><a href="#">HOME</a></li>
+			<li><a href="#">ABOUT</a></li>
+			<li><a href="#">COURSES</a></li>
+			<li><a href="#">CONTACT</a></li>
+		</ul>
+		<p>This is my programming journey. Its cool to get your hands dirty with coding, because <i><b>programming</b></i> is the future</p>
+		<p>Lets create tables and roles</p>
+		<table
+				border="5"
+				cellpadding="15" 
+				cellspacing="5">
+			<tr>
+				<td><button>Python Course</button></td>
+
+				<td><button>NodeJS Course</button></td>
+
+				<td><button>Angular Course</button></td>
+
+				<td><button>JAVA Course</button>
+				</td>
+
+				<td><button>DevOps Course</button></td>
+				
+			</tr>
+			
+		</table>
 
 
 
