@@ -41,6 +41,15 @@
 			</tr>
 			
 		</table>
+		<hr>
+		<h2>CONTACT US HERE</h2>
+		<form>
+			First Name: <br>
+			<input type="SUBMIT" name=""><br>
+			email:<b>
+			<button>"SUBMIT"</button>
+			<input type="text" name="">
+		</form>
 
 
 
