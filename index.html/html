@@ -5,12 +5,14 @@
 	</head>
 	<body>
 		<h1>This is my first website</h1>
-		<ul>
-			<li><a href="#">HOME</a></li>
-			<li><a href="#">ABOUT</a></li>
-			<li><a href="#">COURSES</a></li>
-			<li><a href="#">CONTACT</a></li>
-		</ul>
+		<table>
+			<tr>
+			<td><a href="#">HOME</a></td>
+			<td><a href="#">ABOUT</a></td>
+			<td><a href="#">COURSES</a></td>
+			<td><a href="#">CONTACT</a></td>
+	</tr>
+	</table>
 		<p>This is my programming journey. Its cool to get your hands dirty with coding, because <i><b>programming</b></i> is the future</p>
 		<p>Lets create tables and roles</p>
 		<table
